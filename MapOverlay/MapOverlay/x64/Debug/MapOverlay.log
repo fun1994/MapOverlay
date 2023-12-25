@@ -1,0 +1,32 @@
+﻿  main.cpp
+C:\Users\HFKJ059\source\repos\MapOverlay\MapOverlay\MapOverlay.h(39,14): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\HFKJ059\source\repos\MapOverlay\MapOverlay\MapOverlay.h(40,36): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\HFKJ059\source\repos\MapOverlay\MapOverlay\MapOverlay.h(44,14): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\HFKJ059\source\repos\MapOverlay\MapOverlay\MapOverlay.h(45,30): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\HFKJ059\source\repos\MapOverlay\MapOverlay\MapOverlay.h(46,28): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\HFKJ059\source\repos\MapOverlay\MapOverlay\MapOverlay.h(47,28): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\HFKJ059\source\repos\MapOverlay\MapOverlay\MapOverlay.h(48,28): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\HFKJ059\source\repos\MapOverlay\MapOverlay\MapOverlay.h(186,33): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\HFKJ059\source\repos\MapOverlay\MapOverlay\MapOverlay.h(189,49): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\HFKJ059\source\repos\MapOverlay\MapOverlay\MapOverlay.h(190,14): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\HFKJ059\source\repos\MapOverlay\MapOverlay\MapOverlay.h(191,31): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\HFKJ059\source\repos\MapOverlay\MapOverlay\MapOverlay.h(194,59): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\HFKJ059\source\repos\MapOverlay\MapOverlay\MapOverlay.h(196,49): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\HFKJ059\source\repos\MapOverlay\MapOverlay\MapOverlay.h(198,59): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\HFKJ059\source\repos\MapOverlay\MapOverlay\MapOverlay.h(200,49): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\HFKJ059\source\repos\MapOverlay\MapOverlay\MapOverlay.h(202,61): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\HFKJ059\source\repos\MapOverlay\MapOverlay\MapOverlay.h(204,61): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\HFKJ059\source\repos\MapOverlay\MapOverlay\MapOverlay.h(206,61): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\HFKJ059\source\repos\MapOverlay\MapOverlay\MapOverlay.h(208,61): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\HFKJ059\source\repos\MapOverlay\MapOverlay\MapOverlay.h(211,52): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\HFKJ059\source\repos\MapOverlay\MapOverlay\MapOverlay.h(213,52): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\HFKJ059\source\repos\MapOverlay\MapOverlay\MapOverlay.h(215,52): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\HFKJ059\source\repos\MapOverlay\MapOverlay\MapOverlay.h(217,52): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\HFKJ059\source\repos\MapOverlay\MapOverlay\MapOverlay.h(221,52): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\HFKJ059\source\repos\MapOverlay\MapOverlay\MapOverlay.h(223,52): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\HFKJ059\source\repos\MapOverlay\MapOverlay\MapOverlay.h(225,52): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\HFKJ059\source\repos\MapOverlay\MapOverlay\MapOverlay.h(227,52): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\HFKJ059\source\repos\MapOverlay\MapOverlay\MapOverlay.h(243,37): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\HFKJ059\source\repos\MapOverlay\MapOverlay\MapOverlay.h(269,40): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\HFKJ059\source\repos\MapOverlay\MapOverlay\MapOverlay.h(284,40): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  MapOverlay.vcxproj -> C:\Users\HFKJ059\source\repos\MapOverlay\x64\Debug\MapOverlay.exe
